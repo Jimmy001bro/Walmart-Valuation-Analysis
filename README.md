@@ -40,17 +40,9 @@ This project analyzes whether Walmart's stock is **overvalued, fairly valued, or
 
 ---
 
-## 🚀 Next Steps
-I plan to expand this project by:
-1. Adding a **DCF (Discounted Cash Flow)** model
-2. Analyzing **5-year revenue trends**
-3. Including **analyst sentiment** from recent earnings calls
-
----
 
 ## 📬 Connect with Me
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email]
+- **Email:** [nima80ir@gmail.com]
 
 ---
 
