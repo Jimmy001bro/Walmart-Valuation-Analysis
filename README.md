@@ -8,6 +8,8 @@ This project analyzes whether Walmart's stock is **overvalued, fairly valued, or
 
 **Goal:** Apply fundamental valuation techniques to a globally recognized company and deliver a clear, data-backed investment recommendation.
 
+> **⚠️ Disclaimer:** I hold a Bachelor's degree in Financial Management and completed this project as part of my professional development. This analysis is for **educational and demonstrative purposes only** and does not constitute financial advice. I am **not a licensed financial advisor**. All data is publicly available and all assumptions are my own.
+
 ---
 
 ## 📈 Key Findings
